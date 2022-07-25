@@ -117,10 +117,6 @@ These materials are not sponsored by or affiliated with Unity Technologies or it
 [License-Badge]: https://img.shields.io/github/license/ExtendRealityLtd/VRTK.svg
 [Backlog-Badge]: https://img.shields.io/badge/project-backlog-78bdf2.svg
 
-[Discord-Badge]: https://img.shields.io/badge/discord--7289DA.svg?style=social&logo=discord
-[Videos-Badge]: https://img.shields.io/badge/youtube--e52d27.svg?style=social&logo=youtube
-[Twitter-Badge]: https://img.shields.io/badge/twitter--219eeb.svg?style=social&logo=twitter
-
 [License]: LICENSE.md
 [Backlog]: http://tracker.vrtk.io
 
