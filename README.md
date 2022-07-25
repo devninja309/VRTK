@@ -4,11 +4,6 @@
 > A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.
 > #### Requires the Unity software version 2020.3.24f1.
 
-[![License][License-Badge]][License]
-[![Backlog][Backlog-Badge]][Backlog]
-[![Discord][Discord-Badge]][Discord]
-[![Videos][Videos-Badge]][Videos]
-[![Twitter][Twitter-Badge]][Twitter]
 
 ## Beta Disclaimer
 
@@ -120,9 +115,7 @@ These materials are not sponsored by or affiliated with Unity Technologies or it
 [License]: LICENSE.md
 [Backlog]: http://tracker.vrtk.io
 
-[Discord]: https://discord.com/invite/bRNS6hr
-[Videos]: http://videos.vrtk.io
-[Twitter]: https://twitter.com/VR_Toolkit
+
 [Bowling Tutorial]: https://github.com/ExtendRealityLtd/VRTK.Tutorials.VRBowling
 
 [Quick Outline]: https://github.com/chrisnolet/QuickOutline
